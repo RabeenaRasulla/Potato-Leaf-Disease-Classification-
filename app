@@ -126,4 +126,4 @@ if uploaded_file is not None:
 
 # Footer
 st.markdown("---")
-st.markdown("<div class='big-font' style='text-align:center;'>🌱 Powered by AI Potato Disease Detection 🌿</div>", unsafe_allow_html=True)      in single code 
+st.markdown("<div class='big-font' style='text-align:center;'>🌱 Powered by AI Potato Disease Detection 🌿</div>", unsafe_allow_html=True)  
